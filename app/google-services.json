@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701162361173",
+    "project_id": "eryde-cab",
+    "storage_bucket": "eryde-cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701162361173:android:34f2536597e49b09e51fdc",
+        "android_client_info": {
+          "package_name": "com.ramstein.prerun.app.eryde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701162361173-bn9kn1ukmomrtp895lnfhlr4vlillivr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzGd86OzJ4Sz-eZoXMdru30Tn-rdORNkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701162361173-bn9kn1ukmomrtp895lnfhlr4vlillivr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
